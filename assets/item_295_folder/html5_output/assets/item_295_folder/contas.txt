@@ -1,0 +1,10 @@
+To publish your website, you create a git repository, add files to it, and then push updates (“commits”) to GitHub’s copy of the repository, or repo. At the free level, all repos are publicly viewable, so your entire website would be open source by default — no secrets here.
+
+
+https://github.com
+dualpixel@
+Dual1976@
+
+https://app.sendinblue.com
+dualpixel@
+dual1976
